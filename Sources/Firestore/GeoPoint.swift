@@ -7,7 +7,7 @@
 import Foundation
 
 public struct GeoPoint: Codable {
-  
+
   public var latitude: Double
   public var longitude: Double
 }
